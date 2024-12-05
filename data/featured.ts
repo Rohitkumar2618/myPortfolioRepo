@@ -77,7 +77,7 @@
 
 
 // Full Screen
-import ProjectI from "../public/images/projex1.png";
+import ProjectI from "../public/images/projex3c.png";
 import Project2I from "../public/images/project2.png";
 import Project3I from "../public/images/project3.png";
 import Project4I from "../public/images/projex4.png";
@@ -85,7 +85,7 @@ import Project5I from "../public/images/projex5.png";
 import Project6I from "../public/images/projex6.png";
 
 // Crop
-import ProjectIC from "../public/images/projex11crop.jpg";
+import ProjectIC from "../public/images/imresizer-1733420370822.png";
 import Project2IC from "../public/images/projex2crop.jpg";
 import Project3IC from "../public/images/project1crop.jpg";
 
