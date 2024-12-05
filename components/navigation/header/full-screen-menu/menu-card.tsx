@@ -67,7 +67,7 @@ const MenuCard = () => {
   ];
 
   return (
-    <div className="    w-full  sm: ml-[12px] sm: w-[370px] md:w-[600px] lg:w-[400px] h-auto min-h-[427px] gap-[20px] bg-[#1e36ea] rounded-[10px] flex-col justify-between items-sta flex relative overflow-hidden pt-10 px-[25px] pb-5  shadow-md p-4 ">
+    <div className="    w-full  sm: ml-[10px] sm: w-[371px] md:w-[600px] lg:w-[400px] h-auto min-h-[427px] gap-[20px] bg-[#1e36ea] rounded-[10px] flex-col justify-between items-sta flex relative overflow-hidden pt-10 px-[25px] pb-5  shadow-md p-4 ">
       {/* Header */}
       <div className="w-full flex relative justify-between items-center">
         <div className="text-white text-2xl font-bold  uppercase">
