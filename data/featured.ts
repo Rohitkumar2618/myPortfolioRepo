@@ -85,13 +85,13 @@ import Project5I from "../public/images/projex5.png";
 import Project6I from "../public/images/projex6.png";
 
 // Crop
-import ProjectIC from "../public/images/imresizer-1733420370822.png";
-import Project2IC from "../public/images/projex2crop.jpg";
-import Project3IC from "../public/images/project1crop.jpg";
+import ProjectIC from "../public/images/projectC.png";
+import Project2IC from "../public/images/projex2crop.png";
+import Project3IC from "../public/images/Screenshot 2024-12-10 163652.png";
 
 const featuredData = [
   {
-    title: "Mesnap",
+    title: "Snapgram",
     logo: "", // Placeholder for the logo URL
     tag: "React + AppWrite Cloud",
     imageFull: ProjectI,
@@ -127,7 +127,7 @@ const featuredData = [
     link: "https://spotify-clone-rk1.netlify.app/",
   },
   {
-    title: "Obys Agency clone",
+    title: "Obys Agency ",
     logo: "https://example.com/logo-socialmediaapp.png", // Placeholder for the logo URL
     tag: "HTML+CSS+JS+GSAP",
     imageFull: Project5I,

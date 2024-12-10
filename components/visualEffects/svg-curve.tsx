@@ -101,7 +101,7 @@ export default function SvgCurve() {
   }, []);
 
   return (
-    <div className="line-container -top-10">
+    <div className="line-container -top-10 ">
       <svg
         width="100%"
         height="100"
