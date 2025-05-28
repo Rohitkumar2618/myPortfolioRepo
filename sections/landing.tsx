@@ -2,7 +2,7 @@
 import Header from "@/components/cards/featured/header";
 import FancyButton from "@/components/ui/fancyButton";
 import LiveClock from "@/components/ui/live-clock";
-import Profile from "@/components/ui/profile";
+// import Profile from "@/components/ui/profile";
 import ScrollDown from "@/components/ui/scroll-down";
 import MagneticWrapper from "@/components/visualEffects/magnetic-wrapper";
 import React from "react";
